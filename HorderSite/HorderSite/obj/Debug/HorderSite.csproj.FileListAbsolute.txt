@@ -1,0 +1,5 @@
+E:\hades\WebDev\HorderSite\HorderSite\bin\HorderSite.dll
+E:\hades\WebDev\HorderSite\HorderSite\bin\HorderSite.pdb
+E:\hades\WebDev\HorderSite\HorderSite\obj\Debug\ResolveAssemblyReference.cache
+E:\hades\WebDev\HorderSite\HorderSite\obj\Debug\HorderSite.dll
+E:\hades\WebDev\HorderSite\HorderSite\obj\Debug\HorderSite.pdb
