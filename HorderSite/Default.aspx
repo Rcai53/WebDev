@@ -13,19 +13,19 @@
     <link href="/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
     <link href="/css/css.css" rel="stylesheet" media="screen">
     <link href="/css/css2.css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="/css/custom/milk.css">
+    <link rel="stylesheet" href="/css/milk.css">
     <!-- 表单验证 -->
     <script type="text/javascript">
         var taken_for_user = '576c6476-c84b-4c9f-9509-67a993f5ee33';
 	</script>
     <script src="/js/jquery.js"></script>
-    <script type="text/javascript" src="/js/custom/defaultToken.js"></script>
+    <script type="text/javascript" src="/js/defaultToken.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/jquery-validation-1.13.1/lib/jquery.mockjax.js"></script>
-    <script src="/js/jquery-validation-1.13.1/dist/jquery.validate.js"></script>
-    <script type="text/javascript" src="/js/custom/login.js"></script>
-    <script type="text/javascript" src="/js/custom/recordquery.js"></script>
-    <script type="text/javascript" src="/js/custom/md5.min.js"></script>
+    <script src="/js/jquery.mockjax.js"></script>
+    <script src="/js/jquery.validate.js"></script>
+    <script type="text/javascript" src="/js/login.js"></script>
+    <script type="text/javascript" src="/js/recordquery.js"></script>
+    <script type="text/javascript" src="/js/md5.min.js"></script>
     <style>
         .error {
             position: absolute;
@@ -81,12 +81,10 @@
                     </div>
                     <ul class="nav nav-pills z-index">
                         <li class='active'><a href="/Default.aspx">首页</a></li>
-                        <li><a href="/recordQuery">公共查询</a></li>
-                        <li><a href="/recordInform">后台通知公告</a></li>
-                        <li><a href="/recordIssue">常见问题</a></li>
-                        <li><a href="/recordNotice">政策法规</a></li>
-                        <li><a href="/recordPolicies">通知公告</a></li>
-                        <li><a href="/recordShow" onclick="loading()">备案展厅</a></li>
+                        <li><a href="/recordInform.html">常见问题</a></li>
+                        <li><a href="/recordIssue.html">政策法规</a></li>
+                        <li><a href="/recordNotice.html">通知公告</a></li>
+                        
                     </ul>
                 </div>
             </div>
