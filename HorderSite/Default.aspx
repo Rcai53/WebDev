@@ -81,10 +81,10 @@
                     </div>
                     <ul class="nav nav-pills z-index">
                         <li class='active'><a href="/Default.aspx">首页</a></li>
-                        <li><a href="/recordInform.html">常见问题</a></li>
-                        <li><a href="/recordIssue.html">政策法规</a></li>
-                        <li><a href="/recordNotice.html">通知公告</a></li>
-                        
+                        <li><a href="/recordInform.html">前端</a></li>
+                        <li><a href="/recordIssue.html">后端</a></li>
+                        <li><a href="/recordNotice.html">移动端</a></li>
+                        <li><a href="/newTech.html">新方向</a></li>
                     </ul>
                 </div>
             </div>
@@ -415,7 +415,7 @@
             <div class="index_left">
                 <div class="tongzhi" style="overflow: hidden;">
                     <p class="z_p">
-                        <span class="tit">网站公示</span>
+                        <span class="tit">热点关注</span>
                     </p>
                     <marquee behavior="scroll" direction="down" loop="-1" scrollamount="2" onmouseout="this.start()" onmouseover="this.stop()" vspace="10" height="300">
           <ul class="tz_list">
@@ -524,14 +524,12 @@
           </ul>
          </marquee>
                 </div>
-                <div>
-                    <a href="https://waf.islab.cn/">
-                        <img alt="" src="../img/aqfwpt.png"></a>
-                </div>
+                
             </div>
+            <!-- q前端-->
             <div class="index_right">
                 <div class="content">
-                    <h5>政策法规<span><a href="../portal/recordNotice"><img src="../img/more.gif"></a></span></h5>
+                    <h5>前端<span><a href="/recordInform.html"><img src="../img/more.gif"></a></span></h5>
                     <ul class="tz_list listr">
                         <li>
                             <a title="中华人民共和国网络安全法" href="/portal/topicDetail?id=54">中华人民共和国网络安全法</a>
@@ -554,8 +552,9 @@
                         </li>
                     </ul>
                 </div>
+                <!--后端 -->
                 <div class="content">
-                    <h5>常见问题<span><a href="../portal/recordIssue"><img src="../img/more.gif"></a></span></h5>
+                    <h5>后端<span><a href="/recordIssue.html"><img src="../img/more.gif"></a></span></h5>
                     <ul class="tz_list listr">
 
                         <li>
@@ -580,8 +579,9 @@
 
                     </ul>
                 </div>
+                <!--移动端 -->
                 <div class="content" style="margin-top: 10px;">
-                    <h5>下载中心<span><a href="../portal/downloadcenter"><img src="../img/more.gif"></a></span></h5>
+                    <h5>移动端<span><a href="/recordNotice.html"><img src="../img/more.gif"></a></span></h5>
                     <ul class="tz_list listr">
 
                         <li>
@@ -611,8 +611,9 @@
                         </li>
                     </ul>
                 </div>
+                <!--新方向 -->
                 <div class="content" style="margin-top: 10px;">
-                    <h5>通知公告<span><a href="../portal/recordPolicies"><img src="../img/more.gif"></a></span></h5>
+                    <h5>新方向<span><a href="/newTech.html"><img src="../img/more.gif"></a></span></h5>
                     <ul class="tz_list listr">
 
 
