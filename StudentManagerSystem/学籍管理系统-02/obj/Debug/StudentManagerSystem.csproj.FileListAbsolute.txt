@@ -1,0 +1,14 @@
+C:\Users\24405\Downloads\StudentSystem-master\StudentSystem-master\学籍管理系统-02\学籍管理系统-02\bin\学籍管理系统-02.dll.config
+C:\Users\24405\Downloads\StudentSystem-master\StudentSystem-master\学籍管理系统-02\学籍管理系统-02\bin\学籍管理系统-02.dll
+C:\Users\24405\Downloads\StudentSystem-master\StudentSystem-master\学籍管理系统-02\学籍管理系统-02\bin\学籍管理系统-02.pdb
+C:\Users\24405\Downloads\StudentSystem-master\StudentSystem-master\学籍管理系统-02\学籍管理系统-02\obj\Debug\StudentManagerSystem.csprojResolveAssemblyReference.cache
+C:\Users\24405\Downloads\StudentSystem-master\StudentSystem-master\学籍管理系统-02\学籍管理系统-02\obj\Debug\StudentManagerSystem.csproj.CoreCompileInputs.cache
+C:\Users\24405\Downloads\StudentSystem-master\StudentSystem-master\学籍管理系统-02\学籍管理系统-02\obj\Debug\学籍管理系统-02.dll
+C:\Users\24405\Downloads\StudentSystem-master\StudentSystem-master\学籍管理系统-02\学籍管理系统-02\obj\Debug\学籍管理系统-02.pdb
+C:\Users\24405\Desktop\WebDev-master\StudentManagerSystem\学籍管理系统-02\bin\学籍管理系统-02.dll.config
+C:\Users\24405\Desktop\WebDev-master\StudentManagerSystem\学籍管理系统-02\bin\学籍管理系统-02.dll
+C:\Users\24405\Desktop\WebDev-master\StudentManagerSystem\学籍管理系统-02\bin\学籍管理系统-02.pdb
+C:\Users\24405\Desktop\WebDev-master\StudentManagerSystem\学籍管理系统-02\obj\Debug\StudentManagerSystem.csprojResolveAssemblyReference.cache
+C:\Users\24405\Desktop\WebDev-master\StudentManagerSystem\学籍管理系统-02\obj\Debug\StudentManagerSystem.csproj.CoreCompileInputs.cache
+C:\Users\24405\Desktop\WebDev-master\StudentManagerSystem\学籍管理系统-02\obj\Debug\学籍管理系统-02.dll
+C:\Users\24405\Desktop\WebDev-master\StudentManagerSystem\学籍管理系统-02\obj\Debug\学籍管理系统-02.pdb
